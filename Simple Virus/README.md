@@ -1,4 +1,4 @@
-Simple Virus
+# Simple Virus
 
 The objective of this project was to write a simple self-propagating virus for Linux ELF executables. The server would make the 'virus.c' program and execute it locally. The first iteration would infect any ELF executable within that folder and then the binary 'virus' would be removed. Post that, the virus should self-propagate whenever the infected ELF executable is called, to further infect other non-infected executables, while also maintaining the functionality of the ELF executable. After the execution, a simple string "Hello! I am a simple virus!" should be displayed to stdout.
 
