@@ -1,4 +1,4 @@
-# cy5770-f20
+# CY 5770 (Fall 2020)
 Projects from the course Software Vulnerabilities and Security (CY 5770)
 
 The coursework involved numerous projects (challenges) such as:
